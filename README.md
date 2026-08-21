@@ -2,7 +2,7 @@
 
 Binary releases for Mark2, a WYSIWYG Markdown editor for macOS.
 
-[简体中文](README.zh-CN.md)
+![screenshot-2026-08-21 13.28.10](./assets/screenshot-2026-08-21%2013.28.10.png)[简体中文](README.zh-CN.md)
 
 This repository publishes macOS installers and updater files only. Mark2 source code is not included.
 
@@ -10,10 +10,10 @@ This repository publishes macOS installers and updater files only. Mark2 source 
 
 Open the [latest release](https://github.com/hzjjg/mark2-editor-release/releases/latest) and download the `.dmg` that matches your Mac:
 
-| Mac | File |
-| --- | --- |
+| Mac                         | File                          |
+| :-------------------------- | :---------------------------- |
 | Apple Silicon (M1/M2/M3/M4) | `mark2_<version>_aarch64.dmg` |
-| Intel | `mark2_<version>_x64.dmg` |
+| Intel                       | `mark2_<version>_x64.dmg`     |
 
 For manual installation, download only the `.dmg`. The `.app.tar.gz`, `.app.tar.gz.sig`, and `latest.json` files are used by the in-app updater.
 

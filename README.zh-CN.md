@@ -1,8 +1,6 @@
 # Mark2
 
-Mark2 是一款所见即所得的 Markdown 编辑器。本仓库用于发布 macOS 安装包。
-
-[English](README.md)
+Mark2 是一款所见即所得的 Markdown 编辑器。本仓库用于发布 macOS 安装包。![screenshot-2026-08-21 13.28.10](./assets/screenshot-2026-08-21%2013.28.10.png)[English](README.md)
 
 本仓库只发布 macOS 安装包和更新所需文件，不包含 Mark2 源代码。
 
@@ -10,10 +8,10 @@ Mark2 是一款所见即所得的 Markdown 编辑器。本仓库用于发布 mac
 
 打开[最新版本](https://github.com/hzjjg/mark2-editor-release/releases/latest)，根据 Mac 芯片类型下载对应的 `.dmg` 文件：
 
-| Mac 类型 | 文件 |
-| --- | --- |
+| Mac 类型                | 文件                            |
+| :-------------------- | :---------------------------- |
 | Apple 芯片（M1/M2/M3/M4） | `mark2_<version>_aarch64.dmg` |
-| Intel 芯片 | `mark2_<version>_x64.dmg` |
+| Intel 芯片              | `mark2_<version>_x64.dmg`     |
 
 手动安装只需要下载 `.dmg`。`.app.tar.gz`、`.app.tar.gz.sig` 和 `latest.json` 供应用内更新使用。
 
