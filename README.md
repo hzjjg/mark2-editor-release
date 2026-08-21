@@ -1,10 +1,27 @@
 # Mark2
 
+[简体中文](README.zh-CN.md)
+
 Binary releases for Mark2, a WYSIWYG Markdown editor for macOS.
 
-![screenshot-2026-08-21 13.28.10](./assets/screenshot-2026-08-21%2013.28.10.png)[简体中文](README.zh-CN.md)
+![screenshot-2026-08-21 13.28.10](./assets/screenshot-2026-08-21%2013.28.10.png)
 
 This repository publishes macOS installers and updater files only. Mark2 source code is not included.
+
+## Features
+
+| Feature                   | Description                                                                        |
+| :------------------------ | :--------------------------------------------------------------------------------- |
+| WYSIWYG Markdown editing  | Supports visual editing and source mode.                                           |
+| File and folder workspace | Open files or folders with outline, search, auto-save, and local history.          |
+| Common file preview       | Preview HTML, PDF, image, and video files.                                         |
+| Themes and customization  | Choose editor and code themes, with font and background texture options.           |
+| AI Agent                  | Chat, rewrite documents, and operate on workspace files.                           |
+| Inline AI completion      | Provides manual or automatic inline continuation suggestions.                      |
+| Git panel                 | View status, branches, changes, and commit history; perform common Git operations. |
+| Export and image handling | Export Markdown, HTML, PDF, and PNG, or copy rich text; save or upload images.     |
+
+![screenshot-2026-08-21 13.29.19](./assets/screenshot-2026-08-21%2013.29.19.png)
 
 ## Download
 
@@ -43,3 +60,5 @@ To update manually, download the matching `.dmg`, quit Mark2, and replace the ex
 ## Platform support
 
 macOS is supported in the current release. Windows and Linux packaging are reserved for future releases.
+
+> **Development status:** Mark2 is in an early stage of development. Some features are still incomplete or may be unstable. Keep backups of important documents.
